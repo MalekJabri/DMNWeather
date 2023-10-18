@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_857FE424-BEDA-4772-AB8E-2F4CDDB864AB" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" id="_C6CBECEB-2BBC-4E14-80B0-17F576B2CF92" name="loan_pre_qualification" expressionLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_857FE424-BEDA-4772-AB8E-2F4CDDB864AB">
   <dmn:extensionElements/>
   <dmn:itemDefinition id="_D40B0106-62E8-4AC0-A39A-C6C9506194A9" name="Requested_Product" isCollection="false">
@@ -597,7 +598,7 @@ else "Insufficient"</dmn:text>
       </di:extension>
       <dmndi:DMNShape id="dmnshape-drg-_4C89E59C-FDDA-438C-8D1F-0B1194EF6DAE" dmnElementRef="_4C89E59C-FDDA-438C-8D1F-0B1194EF6DAE" isCollapsed="false">
         <dmndi:DMNStyle>
-          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:FillColor red="122" green="138" blue="214"/>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
@@ -615,7 +616,7 @@ else "Insufficient"</dmn:text>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_F0DC8923-5FC7-4200-8BD1-461D5F3714BE" dmnElementRef="_F0DC8923-5FC7-4200-8BD1-461D5F3714BE" isCollapsed="false">
         <dmndi:DMNStyle>
-          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:FillColor red="81" green="204" blue="56"/>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
@@ -633,7 +634,7 @@ else "Insufficient"</dmn:text>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_1CF5CEFA-AF97-46F9-9CD5-9A8AEBB20B4E" dmnElementRef="_1CF5CEFA-AF97-46F9-9CD5-9A8AEBB20B4E" isCollapsed="false">
         <dmndi:DMNStyle>
-          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:FillColor red="129" green="155" blue="197"/>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
@@ -642,7 +643,7 @@ else "Insufficient"</dmn:text>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_D6F4234F-15B3-4F5B-B814-5F6FF29D2907" dmnElementRef="_D6F4234F-15B3-4F5B-B814-5F6FF29D2907" isCollapsed="false">
         <dmndi:DMNStyle>
-          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:FillColor red="78" green="186" blue="38"/>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
@@ -651,7 +652,7 @@ else "Insufficient"</dmn:text>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_2FE51DB1-3083-4BF7-AA71-0B0065310E72" dmnElementRef="_2FE51DB1-3083-4BF7-AA71-0B0065310E72" isCollapsed="false">
         <dmndi:DMNStyle>
-          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:FillColor red="101" green="206" blue="80"/>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
@@ -660,7 +661,7 @@ else "Insufficient"</dmn:text>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_21C50763-E49F-4D83-A824-16DA6AA87C64" dmnElementRef="_21C50763-E49F-4D83-A824-16DA6AA87C64" isCollapsed="false">
         <dmndi:DMNStyle>
-          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:FillColor red="100" green="207" blue="42"/>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
@@ -669,7 +670,7 @@ else "Insufficient"</dmn:text>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_6E3205AF-7E3D-4ABE-A367-96F3F6E8210E" dmnElementRef="_6E3205AF-7E3D-4ABE-A367-96F3F6E8210E" isCollapsed="false">
         <dmndi:DMNStyle>
-          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:FillColor red="154" green="165" blue="208"/>
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
